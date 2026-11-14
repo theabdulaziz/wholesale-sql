@@ -1,0 +1,7 @@
+segment,customers,pct_of_customers,net_revenue,pct_of_revenue,median_recency_days,median_orders,median_revenue
+Champions,1463,25.0,11731056.725,70.2,16.0,10.0,3371.13
+Loyal,1216,20.8,2445301.525,14.6,72.0,4.0,1199.50
+"At risk, was frequent",360,6.2,1031643.252,6.2,335.0,6.0,1572.86
+Needs attention,856,14.6,650643.683,3.9,224.0,2.0,550.24
+Lapsed,1511,25.8,616849.802,3.7,432.0,1.0,271.85
+New or promising,446,7.6,240687.560,1.4,26.0,1.0,364.47

@@ -1,0 +1,9 @@
+reason,adjustment_lines,units_written_off,units_added_back,est_selling_value_written_off,lines_without_a_price
+no reason recorded,5046,253856,196201,436870,368
+stock count correction,370,67321,16958,99889,5
+damaged or faulty,307,66620,3344,195031,6
+destroyed or unsaleable,27,52209,0,124192,2
+sales channel or set adjustment,148,39248,1056,100552,3
+given away or used internally,32,30860,1000,5427,7
+other note,102,30192,11847,43727,2
+missing,57,27771,0,33234,1

@@ -1,0 +1,8 @@
+line_type,raw_rows,pct_of_rows,amount,repeat_lines,repeat_line_amount,rows_without_customer
+sale,1037021,97.16,20110181.017,33664,466319.380,234370
+return,18286,1.71,-726555.990,371,-10093.420,352
+stock_adjustment,6089,0.57,0.000,187,0.000,6089
+charge,5795,0.54,-98264.569,112,-24509.090,2094
+gift_voucher,101,0.01,1686.610,0,,101
+free_item,62,0.01,0.000,1,0.000,0
+test,17,0.0,203.500,0,,1
